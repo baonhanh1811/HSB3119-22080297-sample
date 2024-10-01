@@ -4,4 +4,4 @@ Pham To Bao Anh
 
 HSB3119
 
-![](image/os2.png)
+![](image/s1.png)
